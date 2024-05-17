@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Candidates.API/bin/Debug/net8.0
+/Candidates.API/obj/Debug/net8.0
+/Candidates.API/obj
+/Candidates.Core/bin/Debug/net8.0
+/Candidates.Core/obj
+/Candidates.EF/bin/Debug/net8.0
+/Candidates.EF/obj
